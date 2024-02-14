@@ -1,0 +1,3 @@
+1	pepperoni pizza	4.2
+2	Cheese Burger	4.7
+3	Fried chicken bucket	5

@@ -1,0 +1,3 @@
+Georges Machhour	04-15-2003	example@mail.com	p@ssw0rd123	70755490	1
+John Smith	12-12-2003	example@mail.com	password	03333333	1
+user	11-11-2011	9@11.c	admin	70111111	1
